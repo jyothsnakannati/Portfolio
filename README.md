@@ -5,7 +5,7 @@
 # About
 ![About](https://github.com/jyothsnakannati/Portfolio/assets/121303710/c6a1c96b-fc64-410a-b7d1-18a94b0f7186)
 
-#Education
+# Education
 ![Education](https://github.com/jyothsnakannati/Portfolio/assets/121303710/18d0523a-f692-47e1-ba59-6a61b7413546)
 
 # Skills
